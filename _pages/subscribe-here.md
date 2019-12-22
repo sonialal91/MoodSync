@@ -9,11 +9,9 @@ published: true
 post_date: 2019-12-21 01:52:56
 ---
 <!-- wp:image {"id":2758,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://www.mood-sync.com/wp-content/uploads/2019/12/Subscribe-2-1.jpg" alt="" class="wp-image-2758"/></figure>
+<figure><img src="http://www.mood-sync.com/wp-content/uploads/2019/12/Subscribe-2-1.jpg" alt=""/></figure>
 <!-- /wp:image -->
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
-
 <!-- wp:ninja-forms/form /-->
